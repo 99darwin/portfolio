@@ -2679,6 +2679,14 @@ footer.type-2 .footer-bottom .social-icons a{
 
 }
 
+/* CUSTOM MEDIA QUERIES */
+
+@media screen and (max-width: 415px) {
+    video {
+        max-height: 650px;
+    }
+}
+
 
 
 
